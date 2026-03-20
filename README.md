@@ -105,5 +105,14 @@ This work was supported by the Department of Energy through the Basic Energy Sci
 ## 📌 Citation
 Please cite our paper if you find it useful for your work.
 ```
-TODO: add citation
+@article{xie2026learning,
+  title={Learning nature’s assembly language with polymers},
+  author={Xie, Oliver and Cohen, Alexander E and Bazant, Martin Z and Olsen, Bradley D},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={123},
+  number={7},
+  pages={e2519094123},
+  year={2026},
+  publisher={National Academy of Sciences}
+}
 ```
