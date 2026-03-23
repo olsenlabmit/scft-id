@@ -5,7 +5,7 @@
 </div>
 
 
-This is the official repository for the paper [**_Learning Nature's Assembly Language with Polymers_**](link_to_paper_coming_soon).
+This is the official repository for the paper [**_Learning Nature's Assembly Language with Polymers_**](https://www.pnas.org/doi/abs/10.1073/pnas.2519094123).
 
 The self-assembly of matter into ordered structures is ubiquitous throughout nature and engineered systems, and controlled by the universal thermodynamic balance between entropy and enthalpy. Programming a material’s macroscopic properties via molecular-level control is a grand scientific challenge. One system that would benefit from targeted design are block copolymer melts which microphase-separate into ordered structures. Self-consistent field-theory (SCFT) has proven to be a robust thermodynamic model in explaining the experimental results. Yet so far only the forward translation has been learned; the reverse translation from an ordered structure into a copolymer has proven elusive. This work presents a computational algorithm which learns structure-to-sequence translation using a previously-published sequence-defined version of SCFT (https://doi.org/10.1021/acs.macromol.2c00721). The power of this algorithm is demonstrated by inverse designing polymer sequences to yield novel equilibrium structures, resolving the long-standing dilemma of navigating the combinatorial explosion of sequence possibilities offered by complex copolymer designs.
 
